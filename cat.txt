@@ -1,1 +1,3 @@
 this is cat file
+cat line 5
+cat version 6
